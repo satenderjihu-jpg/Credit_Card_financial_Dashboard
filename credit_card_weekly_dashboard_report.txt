@@ -1,0 +1,30 @@
+CREDIT CARD WEEKLY DASHBOARD
+Power BI | DAX | Business Intelligence
+
+PROJECT OVERVIEW
+Developed an interactive Power BI dashboard to monitor credit card performance, revenue trends, customer segments, transaction activity, activation, and delinquency. The dashboard helps stakeholders track key metrics and identify areas for further analysis.
+
+TOOLS & TECHNIQUES
+• Microsoft Power BI
+• DAX calculated columns and measures
+• KPI tracking and Week-over-Week (WoW) analysis
+• Customer segmentation and geographic analysis
+
+KEY METRICS & INSIGHTS
+• Year-to-date revenue: 57M
+• Total interest earned: 8M
+• Total transaction amount: 46M
+• Week-over-Week revenue growth: 28.8%
+• Male customers contributed 31M in revenue; female customers contributed 26M.
+• Blue and Silver cards accounted for 93% of overall transactions.
+• Texas, New York, and California contributed 68% of overall transactions.
+• Customer activation rate: 57.5%
+• Delinquency rate: 6.06%
+
+BUSINESS VALUE
+The dashboard provides a consolidated view of credit card performance, making it easier to monitor weekly changes, compare customer and card segments, review geographic contributions, and track activation and delinquency. The findings can guide further investigation into revenue drivers, customer engagement, and repayment-related risk.
+
+CONCLUSION
+This project demonstrates the use of Power BI and DAX to turn credit card data into clear performance indicators and business insights. It showcases skills in dashboard development, KPI reporting, revenue analysis, customer segmentation, and business intelligence.
+
+Note: Revenue is calculated in this project as annual fees + total transaction amount + interest earned. Figures and definitions should be validated against the source dataset before publication.
